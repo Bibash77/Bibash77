@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Bibash!
 
-I'm a passionate developer with a strong interest in building practical applications that make everyday life easier. I enjoy working on full-stack projects and exploring new technologies.  
-I love Java, JavaScript, Machine Learning, and AI.
+I'm a passionate developer with a strong interest in building practical and meaningful applications that make everyday life easier. I enjoy working on full-stack projects and exploring new technologies.  
+I love Java, JavaScript, WebApplication Engineering, Rest API Development, Logic Building, Relational Database, Spring Boot, Angular, Machine Learning, and AI.
 
 ---
 
