@@ -1,44 +1,76 @@
 # 👋 Hi there, I'm Bibash!
 
-I'm a passionate developer with a strong interest in building practical applications that make everyday life easier. I enjoy working on full-stack projects and exploring new technologies.
-I love Java, JavaScript, Machine Learning and AI
+I'm a passionate developer with a strong interest in building practical applications that make everyday life easier. I enjoy working on full-stack projects and exploring new technologies.  
+I love Java, JavaScript, Machine Learning, and AI.
+
+---
 
 ## 🚀 Projects
 
 Here are some of the projects I've been working on:
 
-- **[Connect-Me Mobile App ]([https://github.com/Bibash77/CanteenProject](https://github.com/Bibash77/ConnectMeApp))**: A Java-based Android System Which Displays nearby Businesses with their ratings and distance(Haversine Distance Algorithm Used)
-- **[Connect Me Backend]([https://github.com/Bibash77/canteen-frontend](https://github.com/Bibash77/ConnectMe-Backend))**: A Backend System to provide Rest Api endpoint . It has the ability to fetch top rated data near the user geo location and recommend based on the rating.
-- **[Image Data Extractor]([https://github.com/Bibash77/Canteen-Mobile-App](https://github.com/Bibash77/ConnectMe-Backend))**: A Poc of extracting text data from Images with the help of image enhancement(OpenCv) and tesseract as OCR.
-- **[CanteenProject](https://github.com/Bibash77/CanteenProject)**: A Java-based backend system for managing canteen operations.
-- **[canteen-frontend](https://github.com/Bibash77/canteen-frontend)**: A TypeScript-based frontend for the canteen system.
-- **[Canteen-Mobile-App](https://github.com/Bibash77/Canteen-Mobile-App)**: A mobile application version of the canteen system.
-- **[Dynamic Headless CMS]([https://github.com/Bibash77/Transaction-Management-System](https://github.com/Bibash77/WebDocCms))**: A Node Js Application for the creation of dynamic Content with the ability to add video and text content.
-- - **[Student Assesment System]([[https://github.com/Bibash77/Transaction-Management-System](https://github.com/Bibash77/WebDocCms](https://github.com/Bibash77/course-management)))**: A Node Js Application to evaluate student marking based on daily attendance, .
-- **[nepal Fine and Revenue Calculation System]([https://github.com/Bibash77/Canteen-Mobile-App](https://github.com/Bibash77/ConnectMe-Backend))**: A Simple java middleware to calculate the revenue and tax/fine.
-- 
-There are other many demo projects such as microservice base demo , Spring Ai Demo ..Feel free to explore these repositories to see the work I've been doing.
+- **[Connect-Me Mobile App](https://github.com/Bibash77/ConnectMeApp)**:  
+  A Java-based Android system that displays nearby businesses with their ratings and distance using the Haversine Distance Algorithm.
 
----For Studnets from Divya Gyan College (Tribhuvan University) ** . Your Daily Class Lab is uploaded on Below Repository --
-**[Daily Lab] https://github.com/Bibash77/java3rdsem ** --> Guides on OOP in java
-**[Swing Project Sample] https://github.com/Bibash77/StudentManagementSystem3rdSem **
+- **[Connect Me Backend](https://github.com/Bibash77/ConnectMe-Backend)**:  
+  Backend system providing REST API endpoints, with features like top-rated nearby businesses and location-based recommendations.
 
-## 🌟 GitHub Stats
+- **[Image Data Extractor](https://github.com/Bibash77/ImageDataExtractor)**:  
+  A POC for extracting text data from images using image enhancement (OpenCV) and Tesseract OCR.
 
-- 🔭 I’m currently working on enhancing the CanteenProject.
-- 🌱 I’m learning more about AI Libraries and Integration of AI in Web Application such as Spring AI
-- Performing Research on OpenCV, Tesseract in order to perform Optical Character recognization by enhancing the images through OpenCv Library. (check POC: https://github.com/Bibash77/ImageDataExtractor) 
-- 👯 I’m looking to collaborate on open-source projects related to web and mobile applications.
-- 💬 Ask me about Java, TypeScript, and full-stack development.
-- 📫 How to reach me: [https://www.linkedin.com/in/bibash-bogati-76695b1b4/]
+- **[Canteen Project](https://github.com/Bibash77/CanteenProject)**:  
+  A Java-based backend system for managing canteen operations.
+
+- **[Canteen Frontend](https://github.com/Bibash77/canteen-frontend)**:  
+  A TypeScript-based frontend for the canteen system.
+
+- **[Canteen Mobile App](https://github.com/Bibash77/Canteen-Mobile-App)**:  
+  A mobile application version of the canteen system.
+
+- **[Dynamic Headless CMS](https://github.com/Bibash77/WebDocCms)**:  
+  A Node.js application for creating dynamic content with video and text support.
+
+- **[Student Assessment System](https://github.com/Bibash77/course-management)**:  
+  A Node.js application to evaluate student performance based on attendance and class participation.
+
+- **[Nepal Fine and Revenue Calculation System](https://github.com/Bibash77/FineRevenueCalculator)**:  
+  A Java middleware to calculate revenue, taxes, and fines.
+
+> 💡 There are many more demo projects such as microservice-based demos, Spring AI demos, and more.  
+> Feel free to explore my repositories to see all the work I've been doing.
+
+---
+
+### 📘 For Students from Divya Gyan College (Tribhuvan University)
+
+Your daily class/lab materials are uploaded in the repositories below:
+
+- **[Daily Java Lab](https://github.com/Bibash77/java3rdsem)** – Guides on Object-Oriented Programming in Java.
+- **[Swing Project Sample](https://github.com/Bibash77/StudentManagementSystem3rdSem)** – Sample student management system using Java Swing.
+
+---
+
+## 🌟 Tech Interests
+
+- 🔭 Currently enhancing the **CanteenProject**
+- 🌱 Learning Spring AI & AI Library Integration in Web Apps
+- 🧠 Researching OCR using OpenCV and Tesseract — see [ImageDataExtractor](https://github.com/Bibash77/ImageDataExtractor)
+- 👯 Open to collaborate on full-stack, mobile, and AI-related open source projects
+- 💬 Ask me about: **Java**, **TypeScript**, **Spring Boot**, **Node.js**
+
+📫 **Reach me on LinkedIn**: [linkedin.com/in/bibash-bogati-76695b1b4](https://www.linkedin.com/in/bibash-bogati-76695b1b4/)
+
+---
 
 ## 🏆 Achievements
 
-- 🏅 Quickdraw
+- 🏅 QuickDraw
 - 🏅 YOLO
 - 🏅 Arctic Code Vault Contributor
 
-These achievements reflect my active participation and contributions to the GitHub community.
+These reflect my participation and contributions to the open-source community.
+
+---
 
 ## 📈 GitHub Stats
 
@@ -46,4 +78,5 @@ These achievements reflect my active participation and contributions to the GitH
 
 ---
 
-Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
+Thanks for visiting my profile!  
+Let’s connect and build something awesome together. 🚀
