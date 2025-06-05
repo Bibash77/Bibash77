@@ -18,6 +18,9 @@ Here are some of the projects I've been working on:
 - **[Image Data Extractor](https://github.com/Bibash77/ImageDataExtractor)**:  
   A POC for extracting text data from images using image enhancement (OpenCV) and Tesseract OCR.
 
+- **[Chrome Extension Language Translator]([https://github.com/Bibash77/ImageDataExtractor](https://github.com/Bibash77/extension-uni-translator))**:  
+  A Gemini Integrated Chrome extension that lets user to translate their text into desired language
+  
 - **[Canteen Project- Backend ,Rest API](https://github.com/Bibash77/CanteenProject)**:  
   A Java-based backend system for managing canteen operations. It implements real time socket for notifications and has the capable to manage day to day ordering and billing
 
