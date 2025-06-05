@@ -18,22 +18,22 @@ Here are some of the projects I've been working on:
 - **[Image Data Extractor](https://github.com/Bibash77/ImageDataExtractor)**:  
   A POC for extracting text data from images using image enhancement (OpenCV) and Tesseract OCR.
 
-- **[Canteen Project](https://github.com/Bibash77/CanteenProject)**:  
+- **[Canteen Project- Backend ,Rest API](https://github.com/Bibash77/CanteenProject)**:  
   A Java-based backend system for managing canteen operations. It implements real time socket for notifications and has the capable to manage day to day ordering and billing
 
-- **[Canteen Frontend](https://github.com/Bibash77/canteen-frontend)**:  
+- **[Canteen Frontend/Web App](https://github.com/Bibash77/canteen-frontend)**:  
   A Angular/TypeScript-based frontend for the canteen system.
 
 - **[Canteen Mobile App](https://github.com/Bibash77/Canteen-Mobile-App)**:  
   A mobile application version of the canteen system built on IONIC framework.
 
-- **[Dynamic Headless CMS](https://github.com/Bibash77/WebDocCms)**:  
+- **[Dynamic Headless CMS -Backend+Frontend](https://github.com/Bibash77/WebDocCms)**:  
   A Node.js application for creating dynamic content with video and text support.
 
-- **[Student Assessment System](https://github.com/Bibash77/course-management)**:  
+- **[Student Assessment System - Node js and Handlebarjs](https://github.com/Bibash77/course-management)**:  
   A Node.js application to evaluate student performance based on attendance and class participation.
 
-- **[Nepal Fine and Revenue Calculation System](https://github.com/Bibash77/FineRevenueCalculator)**:  
+- **[Nepal Fine and Revenue Calculation System --> Java Web App](https://github.com/Bibash77/FineRevenueCalculator)**:  
   A Java middleware to calculate revenue, taxes, and fines.
 
 > 💡 There are many more demo projects such as microservice-based demos, Spring AI demos, and more.  
