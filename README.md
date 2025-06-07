@@ -18,6 +18,9 @@ Here are some of the projects I've been working on:
 - **[Image Data Extractor](https://github.com/Bibash77/ImageDataExtractor)**  
   A POC for extracting text data from images using image enhancement (OpenCV) and Tesseract OCR.
 
+  - **[Image Color and Shape Analyzer](https://github.com/Bibash77/Simple-Image-Analyzer))**  
+  A POC project for finding colors , brightness and shape in image enhancement (OpenCV).
+
 - **[Chrome Extension Language Translator](https://github.com/Bibash77/extension-uni-translator)**  
   A Gemini-integrated Chrome extension that allows users to translate text into a desired language.
 
