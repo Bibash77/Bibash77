@@ -68,16 +68,6 @@ Your daily class/lab materials are uploaded in the repositories below:
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 QuickDraw  
-- 🏅 YOLO  
-- 🏅 Arctic Code Vault Contributor  
-
-These reflect my active participation and contributions to the open-source community.
-
----
-
 ## 📈 GitHub Stats
 
 ![Bibash77's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibash77&show_icons=true&theme=radical)
